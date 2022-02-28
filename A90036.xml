@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Maiesties receiving of the propositions for peace at Newcastle, on Friday last, Iuly 24. 1646. With some passages between his Majesty and the commissioners. Also a manifesto, sent to the commissioners about the treaty with the States at Munster, by order from his Majesty the King of Spaine.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90036</idno>
+            <idno type="STC">Wing N8</idno>
+            <idno type="STC">Thomason E346_1</idno>
+            <idno type="STC">ESTC R200999</idno>
+            <idno type="EEBO-CITATION">99861594</idno>
+            <idno type="PROQUEST">99861594</idno>
+            <idno type="VID">113732</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90036)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113732)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 56:E346[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Maiesties receiving of the propositions for peace at Newcastle, on Friday last, Iuly 24. 1646. With some passages between his Majesty and the commissioners. Also a manifesto, sent to the commissioners about the treaty with the States at Munster, by order from his Majesty the King of Spaine.</title>
+                  <author>D. N.</author>
+                  <author>Spain. Sovereign (1621-1665 : Philip IV).</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>These are printed by the originall papers, and published according to order of Parliament. By Jane Coe,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>The manifesto is printed in English and Spanish.</note>
+                  <note>The "Letter from Newcastle concerning delivering the propositions" is signed : D.N.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "July 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Netherlands --  History --  Wars of Independence, 1556-1648 --  Peace --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113732:1"/>
+            <pb facs="tcp:113732:1" rendition="simple:additions"/>
+            <p>The Kings Maieſties Receiving of the PROPOSITJONS FOR PEACE AT <hi>NEWCASTLE,</hi> On Friday laſt, Iuly 24. 1646. With ſome paſſages between his Majeſty and the Commiſsioners. ALSO A MANIFESTO, Sent to the Commiſsioners about the treaty with the States at MUNSTER, By Order from his Majeſty the King of SPAINE.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Theſe are Printed by the originall Papers, and publiſhed according to Order of Parliament,</hi> By JANE COE. 1646.</p>
+               </body>
+            </floatingText>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113732:2"/>
+            <pb facs="tcp:113732:2"/>
+            <head>The Plenipotency of the King of SPAINE. Given to his Ambaſſadours at MUN<g ref="char:EOLhyphen"/>STER, Concerning the Vnited Pro<g ref="char:EOLhyphen"/>vinces. (With the manifeſtation by declaring them to be free States) to treat for Peace, to the ending of the long during Warre.</head>
+            <div type="part">
+               <head>
+                  <hi>DON Phillip</hi> by the grace of God King of Caſtille of Leon, of Arragon, of both the Sicilies, Ieruſalem, Portugall, Navarre, Granado, Toledo, Valencia, Galizia, Mayorca, Minor<g ref="char:EOLhyphen"/>ca, Sevill, Cerdena, Cordona, Corſega, Murcia, Portugall of the Algarves Algezina, Gibraltar, of the Iſles, of the Canaries, of both the Eaſt and Weſt-Indies, of the Jſlands and Firme-Land, of the Ocean Sea, Arch-Duke of Auſtria, Duke of Burgondie, Bra<g ref="char:EOLhyphen"/>bant, and Milan, Earle of Habſpurg, Flanders, Tiroland, Barce<g ref="char:EOLhyphen"/>lona, Lord of Biſcay, Molina, &amp;c.</head>
+               <p>
+                  <seg rend="decorInit">W</seg>Hereas that for the earneſt deſire I have to ſet forward the reſt and Tranquility of the Subjects and In<g ref="char:EOLhyphen"/>habitants of the Provinces of the Low-Countries, that ſo they may be eaſed of ſo long and cruell a War for the better attaining to a Generall Peace in Europe, for the Good of Chriſtendome, And having by common and mutuall conſent choſen and
+<pb facs="tcp:113732:3"/> deſigned the Towne of <hi>Munſter</hi> in <hi>Weſtfalia,</hi> for the aſſembling and negotiating the ſaid peace. I have thought it convenient to name perſons who in my name may aſſiſt in the ſaid aſſembly, having full power &amp; Plenipotency, and in a ſpeciall manner with the States of the free Vnited Provinces of the Low Countries, or with their Embaſſadours Plenepotenciaries in particu<g ref="char:EOLhyphen"/>lar authorized and deputed; And taking into our con<g ref="char:EOLhyphen"/>ſideration the ſufficiency, integritie, Providence, Ex<g ref="char:EOLhyphen"/>perience vnderſtanding Intelligence and zeale for my ſervice, and of the welfare and univerſall peace of Chri<g ref="char:EOLhyphen"/>ſtendome, which doe concurre in the perſons of <hi>Don Iaſper de Bracamonte</hi> and <hi>Guſman</hi> Earle of <hi>Pennaranda</hi> Gentleman of my Chamber, &amp; one of my Privy Coun<g ref="char:EOLhyphen"/>ſell, and my extraordinary Embaſſadour in <hi>Germany: Fray Ioſeph Bargagne</hi> Archbiſhop of <hi>Cambray,</hi> and <hi>An<g ref="char:EOLhyphen"/>tonio Brun</hi> being of my ſupreame Counſell in <hi>Flanders,</hi> and for the great ſatisfaction I have alwayes received from them in ſeverall great affayres wherewith they have beene intruſted, and by them reſpectively mana<g ref="char:EOLhyphen"/>ged therefore totally, repoſing my truſt on them all to<g ref="char:EOLhyphen"/>gether met, or ſeverally in the abſence of either of them cauſed by any other impediment tending to the further good of Chriſtendome and my particular intereſts, have named and ordained them for my Ambaſſadours and Plenipotentiaries, and by vertue of theſe preſents doe give unto them joyntly and to every one of them in particular in the abſence or other impediment of any one of them, a full and abſolute power to make an over<g ref="char:EOLhyphen"/>ture unto the ſaid States of the ſaid free and vnited Pro<g ref="char:EOLhyphen"/>vinces of the Low-Countries, or their Ambaſſadours and Plenipotentiaries, eſpecially they being appointed and fully authorized by the ſaid States, &amp; then to heare ſuch things that will be tending to end this long and
+<pb facs="tcp:113732:3"/> cruell War raiſed in the Provinces of the Low-Coun<g ref="char:EOLhyphen"/>tries, and others which have ſprung from this in other Countries, Lands, and Seas, farre remote from them and in proſecution of this with the ſaid Eſtates Gene<g ref="char:EOLhyphen"/>rall of the ſaid free and vnited Provinces, or with their ſaid Embaſſadours and Plenipotentiaries enter into a Treaty, propound, agree, capitulate, conclude, a good firme and inviolable Treatie, be it of Peace or Truce, promiſing for my ſelfe, my ſucceſſours, to hold for ever firme and valid preciſely, and punctually not failing in any thing of all that by my ſaid Embaſſadors and Ple<g ref="char:EOLhyphen"/>nipotentiaries joyntly, or each of them in particuler (in the abſence or other impediment of any of them) ſhall be agreed and capitulated in the ſaid Treatie with the ſaid Eſtates Generall or the ſaid Ambaſſadors and Ple<g ref="char:EOLhyphen"/>nipotentiaries of the above ſaid free vnited Provinces, as likewiſe to approve the ſame, and ratifie it within ſuch time as by them ſhall be mutually agreed, confir<g ref="char:EOLhyphen"/>ming the ſame by oath and other ſolemnities in ſuch caſes neceſſary and accuſtomed, in witneſſe whereof I have cauſed this preſent to be diſpatched.</p>
+               <closer>
+                  <signed>Signed of mine own hand, and ſealed with my Sig<g ref="char:EOLhyphen"/>net, and vnderwritten by my Secretary of State.</signed>
+                  <dateline>
+                     <hi>Given at</hi> Sarogoſſa
+<date>
+                        <hi>the</hi> 7. <hi>of Iune,</hi> 1646.</date>
+                  </dateline>
+                  <signed>I the KING. <hi>PEDRO COLOMO Secretarie.</hi>
+                  </signed>
+
+               </closer>
+               <postscript>
+                  <p>This is a Copy of the originall Plenipotency of his Ma<g ref="char:EOLhyphen"/>jeſtie word for word, which remaines in our power at <hi>Munſter,</hi> this 3. of <hi>Iuly,</hi> 1646.</p>
+                  <closer>
+                     <signed>Signed by us.
+<list>
+                           <item>
+                              <hi>El Conde de P<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                                    <desc>••••</desc>
+                                 </gap>nda.</hi>
+                           </item>
+                           <item>
+                              <hi>Fray Ioſeph <gap reason="illegible" resp="#PDCC" extent="1 word">
+                                    <desc>〈◊〉</desc>
+                                 </gap> co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>iſpo de Cambray.</hi>
+                           </item>
+                           <item>
+                              <hi>A Brun.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </postscript>
+               <postscript>
+                  <p>This Copie is conferred with the originall of the King of <hi>Spaines</hi> Plenipotency. Signed and authorized as aboveſaid, and agrees with it word for word.</p>
+                  <closer>
+                     <signed>I. Vander Burgh.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="part">
+               <pb facs="tcp:113732:4"/>
+               <head>
+                  <hi>DON Philippe</hi> par la gracia de Dios Rey de Caſtilla, de Lae<g ref="char:EOLhyphen"/>on, d'Arragon, de las dos Sicilias, de Hieruſalem, de Portu<g ref="char:EOLhyphen"/>gal, de Navarra, de Grandde, de Toledo, de Valencia de Galicia, de Mallorca, de Minorca, de Sivilla, De Sardana, de Cordua, de Corſega, de Murcia, de Portugal, de los Algarves, de Algezira, de Gibralter, de las Iſlas de Canaria, de las Indias Orientales y Oc<g ref="char:EOLhyphen"/>cidentales, Iſlas y tierra firma del Mar Oceano. Archiduque d'Au<g ref="char:EOLhyphen"/>ſtrio, Duque de Burgonna, y Bravante, y Milan, Conde, de Habſ<g ref="char:EOLhyphen"/>borg, de Flandres, de Tirol, y Barcelona, Signior de Viſcaya, y de Molina, &amp;c.</head>
+               <p>
+                  <seg rend="decorInit">P</seg>OR quanto por lo mucho que deſſeo encami<g ref="char:EOLhyphen"/>nar el repoſo, y tranquilidad de los ſubditos, y habitantes de las Provincias, de los Daiſes, baxos, para que deſcanſen, de tan larga, y cruel guerra parar llegar tanto meior a una paz ge<g ref="char:EOLhyphen"/>neral en Europa, en bien de la Chriſtianidad, y havien do ſe de commun y mutuel concerto eſcogido y ſenalado la villa de munſter en Weſtfalia para el congreſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o y negociation de la dicha par, he hallado por conveniente nombrar perſonas que en my nombre ayan d'aſſiſter con toda auctoridad y pleni<g ref="char:EOLhyphen"/>potentia del dicho congreſſo, y ſpeciall mente con los Eſtados de las provincias libres de los paeſes baios unidos o ſus Embaxa<g ref="char:EOLhyphen"/>dores, Plenipotentiarios en particular autoriſados y de putados, teniendo conſideration a la ſufficiencia integridad, Providentia, Experientia, Intelligentia, y zelo de mi ſervicio, y del bien, y repoſo univerſal de la Chriſtiandad, que concurren en la per<g ref="char:EOLhyphen"/>ſo de. Don Gaſpar de Braccamonte, y Guſman Conde de Pe<g ref="char:EOLhyphen"/>naranda, gentilhombre de Camara de mis Conſeios de Camara y Juſticia, y mi Embaſſador extraordinario en Alemanna, Fray Joſeph Bargagne Arcobiſpo de Cambray<g ref="char:punc">▪</g> y Antonio Brun, de mi conſeio ſupremo de Flandres, y por la ſatisfaction que ſiempre me han da do en differentos, y grandes Negocios, que les han ſido en cargados, y parellos reſpectivamente ma<g ref="char:EOLhyphen"/>neiados: Por tanto confiando enteramente que todos juntos y y cada uno en particular en auſencia y incommodidad del uno o del otro tendran attencion al mayor bien de la Chriſtiandad, y de mis intereſſes particulares, los he nombrado por mis Em<g ref="char:EOLhyphen"/>bajadores
+<pb facs="tcp:113732:4"/> y Plenipotentiarios, y en virtud 'de la preſente les doyatodos juntos y a cada uno en particular en auſencia o incommodidad de qualquier<g ref="char:punc">▪</g> dei<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> entreo y <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> para hazer abertura a los Eſtados de diehas Provincias <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> de los paëſes baios unidos o ſus Embſſadares y Plenipotenti<g ref="char:EOLhyphen"/>arios que eſpecial mente fueron autoriſados y conſtituy: dos pa<g ref="char:EOLhyphen"/>raellos como tambien, oir lo que mirare a apazar la ſobre dicha larga y cruel guarra ſuſcitada en las Provincias de los Laëſes baios, y las de ella ſe han, originado contra los dichos Eſta<g ref="char:EOLhyphen"/>dos generales en o tros leis paeſes y mares, y en conſequentia deſto con los dichos Eſtados generales de dicha Provincias uni<g ref="char:EOLhyphen"/>das libres o con los dichos ſus Embaxadores y Plenipotentia<g ref="char:EOLhyphen"/>rios entrar en negociation conferit, proponer, convenir capi<g ref="char:EOLhyphen"/>tular y conclur uno bueno firmo y invioloble Tratado de re<g ref="char:EOLhyphen"/>poſo ſea de paz o de Tregua, prometiendo por mi por mis ſuc<g ref="char:EOLhyphen"/>ceſſores de tenir para ſiempre por firmo y valido preciſia y pun<g ref="char:EOLhyphen"/>tual mente ſin falta alguna todo lo que por mis dichos Embaxa<g ref="char:EOLhyphen"/>dors y Plenipotentiarios juntos o cada uno<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es particular en ads encia o Incommodidad de Alguno dellos fuero combenido y ca<g ref="char:EOLhyphen"/>pitulado en el dicho tratado con los dichos Eſtados generales o los dichos Embaſſadors y Plenipotentiarios de las ſobre dichas Provincias unidas libres, y auſſi miſmo d approbar los y ratifi<g ref="char:EOLhyphen"/>carlo dentro dei termino que reciproqua mente ſe ſennalare con confirmacion de juramento y todas ſolennidades en tal caſo ne<g ref="char:EOLhyphen"/>ceſſarias y accoſtumbrados en fedelo qual mando deſpachar la preſente firmado de mano, fellado con mi ſello ſegreto y refren<g ref="char:EOLhyphen"/>dado del infraſcrito mi Sogretario de Stado. Dada en Sarago<g ref="char:EOLhyphen"/>ca a ſiece de Junio, de mil y ſciſcientos y quaranta y ſeys Annos.</p>
+               <closer>
+                  <signed>Yo el Rey, Pedro Coloma.</signed>
+
+               </closer>
+               <postscript>
+                  <p>En bas eſtoit Eſcript.</p>
+                  <p>Es Copia de la Pienipotentia original de ſu Majeſtad de verbo adverbum que queda en nueſtra poder en Munſter 23 die Julio 1646. Eſtoit ſigné.</p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>
+                              <hi>El Conde de Penneranda. Fray Joſeph Archibiſpo de Cambray.</hi>
+                           </item>
+                           <item>
+                              <hi>A. Brun.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </postscript>
+               <postscript>
+                  <p>Cette Copie a eſté collationnée avec la Copie du pouvoir ori<g ref="char:EOLhyphen"/>ginel du Roy d'Eſpaigne, ſignee &amp; auctoriſee comme deſſus, &amp; accorde de mot en mot avecq icelle</p>
+                  <closer>
+                     <signed>I. Vander Burgh.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="part">
+               <pb facs="tcp:113732:5"/>
+               <head>A Letter from <hi>Newcaſtle,</hi> concerning delivering of the Propoſitions to his Majeſtie, by the Commiſſioners of both Kingdomes of England and <hi>Scotland,</hi> for a ſafe and well grounded PEACE.</head>
+               <opener>
+                  <salute>NOBLE SIR,</salute>
+               </opener>
+               <p>OO Wedneſday night we had Intelligence here at <hi>New<g ref="char:EOLhyphen"/>caſtle,</hi> that the Commiſſioners would bee in this Towne the next day with the PROPOSITIONS from both Kingdomes of <hi>England</hi> and <hi>Scotland,</hi> (which we received in private by other Meſſengers before, who brought downe ſome Bookes from <hi>London</hi> hither;) Yeſterday being <hi>Thurſday</hi> in the morning the ſaid Commiſſioners came to this Towne, and the ſame day acquainted his Majeſtie, that they were come with Propoſitions from both Kingdomes to be pre<g ref="char:EOLhyphen"/>ſented his Majeſty for a ſafe and well grounded peace; the parti<g ref="char:EOLhyphen"/>culars wherof being come hither in print before his Majeſty was the reader, to give them a more ſpeedy anſwer, and therefore by order from his Majeſty, they were appointed to come to his Maje<g ref="char:EOLhyphen"/>ſtie with the ſaid Propoſitions this day, who accordingly came this afternoone, to deliver them as aforeſaid, and his Majeſty (it is ſaid) will give them a ſpeedy anſwer, but whether poſtitive or not, or what it will be, I muſt leave that to acquaint you with hereafter, which (by the next opportunity) aſſure your ſelfe, ſhall not be wanting from him who is</p>
+               <closer>
+                  <signed>your humble ſervant <hi>D. N.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>Newcaſtle</hi>
+                     <date>
+                        <hi>the</hi> 24. <hi>of July,</hi> 1646.</date>
+                  </dateline>
+               </closer>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:113732:5"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
